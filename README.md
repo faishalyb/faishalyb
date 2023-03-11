@@ -13,9 +13,9 @@
 
 ## Connect With Me 🔗 📝 📍
 <p align="left">
-<a href="https://linkedin.com/in/faishalyb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"height="20" width="30" /></a>
-<a href="https://github.com/faishalyb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"height="20" width="30" /></a>
-<a href="https://instagram.com/faishalyb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@faishalyb" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/faishalyb/" target="_blank" rel = "noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"height="20" width="30" /></a>
+<a href="https://github.com/faishalyb" target="_blank" rel = "noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"height="20" width="30" /></a>
+<a href="https://instagram.com/faishalyb" target="_blank" rel = "noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@faishalyb" height="20" width="30" /></a>
 
 
 
