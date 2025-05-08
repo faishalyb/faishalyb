@@ -1,6 +1,5 @@
 # Hi there, Faishal Yusuf here!👋
-- You can call me faishal, I'm Bangkit 2023 Student Graduate of Cloud Computing Learning Path
-- Final Year Student at Telkom University major of Telecommunication Engineering
+- currently work on private repo - anjgroup
 
 ## Code
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalyb&layout=compact&theme=dracula&langs_count=6)](https://github.com/faishalyb) -->
