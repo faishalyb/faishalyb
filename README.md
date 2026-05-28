@@ -1,5 +1,5 @@
 # Hi there, Faishal Yusuf here!👋
-- currently work on private repo - anjgroup
+- currently work on new project of NEW PIMS - Infield Active Monitoring () ASOKA 
 
 ## Code
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalyb&layout=compact&theme=dracula&langs_count=6)](https://github.com/faishalyb) -->
